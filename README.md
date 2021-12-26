@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranjalGhildiyal
 - 👀 I’m interested in machine learning ,computer vision and UI/UX design.
 - 🌱 I’m currently learning computer vision.
-- 💞️ I’m looking to collaborate on projects using CNNs and front end development.
+- 💞️ I’m looking to collaborate on projects using CNNs
 - 📫 How to reach me: Email: epe18029@rgipt.ac.in
                       
 
