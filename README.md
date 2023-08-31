@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @PranjalGhildiyal
-- 👀 I’m interested in machine learning ,deep learning and computer vision.
-- 🌱 I’m currently learning computer vision.
-- 💞️ I’m looking to collaborate on projects using CNNs
 - 📫 How to reach me: Email: epe18029@rgipt.ac.in
                       
 
